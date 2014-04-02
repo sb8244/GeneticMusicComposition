@@ -1,0 +1,7 @@
+Seed: 1383106011613
+Tonal Population Size: 1000
+Rhythm Population Size: 1000
+Complete
+I33 [41]i [49]q. [53]s [53]i [58]s [46]i Rs [48]s | [58]q [51]i Rs [58]q [58]i. [57]s Rs | [51]i Rs Rs [48]q [59]i [43]i. [58]s Rs Rs | [49]i [57]q. [53]i [52]s [47]q [53]s | [58]s [51]s [58]i. [58]q [57]s [47]q. | Rs [51]q. [48]s [59]i. Rs [43]i [58]s [49]s | [58]q [51]i. [58]q. [58]i Rs | [41]i [49]q. [53]s [53]i [59]s [46]i Rs [48]s | 
+
+17930

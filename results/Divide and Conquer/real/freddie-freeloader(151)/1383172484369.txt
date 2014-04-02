@@ -1,0 +1,5 @@
+Seed: 1383172484369
+Tonal Population Size: 1000
+Rhythm Population Size: 1000
+DID NOT COMPLETE
+482866
